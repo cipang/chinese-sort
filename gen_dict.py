@@ -6,7 +6,6 @@ The Unihan database can be downloaded from: http://www.unicode.org/Public/UCD/la
 Unihan_DictionaryLikeData.txt can be seen after extracting the above zip file.
 """
 
-from collections import defaultdict
 import os
 import sys
 
