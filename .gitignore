@@ -90,3 +90,6 @@ ENV/
 
 # IDEA IDE
 .idea/
+
+chinese.db
+chinese.txt
